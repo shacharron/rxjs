@@ -21,7 +21,7 @@
   "editor.selectionHighlight": false,
   "editor.suggestOnTriggerCharacters": true,
 
-  "window.zoomLevel": 0,
+  "window.zoomLevel": 2,
   
   "terminal.integrated.fontSize": 16,
 
